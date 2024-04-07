@@ -7,7 +7,7 @@ npm run build
 
 ## To run
 
-Start a fake server
+Start a fake server 
 
 ```bash
 json-server database/product.json
