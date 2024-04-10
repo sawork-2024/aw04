@@ -10,7 +10,7 @@ npm run build
 Start a fake server 
 
 ```bash
-json-server database/product.json
+json-server database/database.json
 ```
 
 Strat a web server serving `dist`
