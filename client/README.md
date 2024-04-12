@@ -13,5 +13,7 @@ Start a fake server
 json-server database/database.json
 ```
 
-Strat a web server serving `dist`
+Strat a web server serving `dist` and you'll get this.
+
+![](screenshot/webpos.jpg)
 
